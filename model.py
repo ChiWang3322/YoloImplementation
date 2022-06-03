@@ -125,5 +125,5 @@ def test(S = 7, B=2, C=20):
     print(model.forward(X).shape)
 
 
-test()
+# test()
 
